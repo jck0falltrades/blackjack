@@ -1,0 +1,19 @@
+body {
+    background-color:darkgreen;
+    margin: auto;
+    font-family: calibri;
+    font-size: 22px;
+    font-weight: 800;
+    color: goldenrod;
+    text-align: center;
+}
+
+button {
+    background-color: goldenrod;
+    border-radius: 50%;
+    box-sizing: content-box;
+    font-size: 22px;
+    font-weight: 800;
+    margin: 1em;
+    padding-block: 5px;
+}
